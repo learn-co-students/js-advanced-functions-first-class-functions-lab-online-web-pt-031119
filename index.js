@@ -28,6 +28,6 @@ const fareTripler = function(fare) {
   return fare*3
 }
 
-const selectDifferentDrivers = function(drivers, someFunction()) {
+const selectDifferentDrivers = function(drivers, someFunction) {
   return someFunction(drivers)
 }
